@@ -1,7 +1,7 @@
 # Cognitive Scientist & ML Engineer
 ### Education
-- Dulwich College Suzhou, 2022-2023
-- United World College Changshu China, 2023-2024
+Dulwich College Suzhou, 2022-2023
+United World College Changshu China, 2023-2024
 ### Work Experience
 None
 ### Research

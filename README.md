@@ -1,3 +1,4 @@
+<meta name="msvalidate.01" content="924F3D84BBC7269FE4E2777413435D09" />
 # Cognitive Scientist & ML Engineer
 
 ### About Me

@@ -1,4 +1,4 @@
-# Cognitive Scientist & ML Engineer
+# Prospective Cognitive Scientist & ML Engineer
 
 ### About Me
 Hi, I'm Landy- a Taiwanese high school sophomore who aims to study cognitive science with a specialization in machine learning. I began coding since 6th grade and is currently into deep learning and LLMs. In my free time, I enjoy running, swimming, playing the piano and travelling to different places. Feel free to reach out to me via landy_zhuo@outlook.com. 

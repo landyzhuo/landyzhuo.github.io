@@ -8,15 +8,11 @@ Hi, I'm Landy- a Taiwanese high school junior who aims to study cognitive scienc
 - United World College Changshu China, 2023-
 
 ### Skills
-**Microsoft Office Set**: PowerPoint, Word, Excel, Sway, Forms
-
-**Frontend Development**: Bootstrap, React, Vue
-
-**Mobile Development**: React Native
-
-**Data Science**: Numpy, Pandas, Matplotlib, Seaborn, Matlab
-
-**ML/AI**: Scikit-Learn, PyTorch, NLTK
+- **Microsoft Office Set**: PowerPoint, Word, Excel, Sway, Forms
+- **Frontend Development**: Bootstrap, React, Vue
+- **Mobile Development**: React Native
+- **Data Science**: Numpy, Pandas, Matplotlib, Seaborn, Matlab
+- **ML/AI**: Scikit-Learn, PyTorch, NLTK
 
 ### Work Experience
 None

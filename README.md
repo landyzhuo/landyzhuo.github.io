@@ -24,4 +24,5 @@ Feel free to view my research experience <a href="https://landy-zhuo.eu.org/Rese
 Feel free to view my previous projects <a href="https://landy-zhuo.eu.org/Projects.html">here</a>
 
 ### Awards & Certifications
-**Duolingo English Test**: 140/160 <a href="assets/certs/Duolingo English Test.pdf">(Click for Certificate)</a>
+- **Duolingo English Test**: 140/160 <a href="assets/certs/Duolingo English Test.pdf">(Click for Certificate)</a>
+- **John Locke Essay Competition (Psychology)**": Shortlisted

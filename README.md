@@ -9,9 +9,13 @@ Hi, I'm Landy- a Taiwanese high school junior who aims to study cognitive scienc
 
 ### Skills
 **Microsoft Office Set**: PowerPoint, Word, Excel, Sway, Forms
+
 **Frontend Development**: Bootstrap, React, Vue
+
 **Mobile Development**: React Native
+
 **Data Science**: Numpy, Pandas, Matplotlib, Seaborn, Matlab
+
 **ML/AI**: Scikit-Learn, PyTorch, NLTK
 
 ### Work Experience
@@ -24,4 +28,4 @@ Feel free to view my research experience <a href="https://landy-zhuo.eu.org/Rese
 Feel free to view my previous projects <a href="https://landy-zhuo.eu.org/Projects.html">here</a>
 
 ### Awards & Certifications
-**Duolingo English Test**: 140/160 <a href="https://landy-zhuo.eu.org/Projects.html">(Click for Certificate)</a>
+**Duolingo English Test**: 140/160 <a href="assets/certs/Duolingo English Test.pdf">(Click for Certificate)</a>

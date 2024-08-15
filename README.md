@@ -25,4 +25,4 @@ Feel free to view my previous projects <a href="https://landy-zhuo.eu.org/Projec
 
 ### Awards & Certifications
 - **Duolingo English Test**: 140/160 <a href="assets/certs/Duolingo English Test.pdf">(Click for Certificate)</a>
-- **John Locke Essay Competition (Psychology)**": Shortlisted
+- **John Locke Essay Competition (Psychology)**: Shortlisted

@@ -18,6 +18,7 @@ Hi, I'm Landy- a Taiwanese high school sophomore who aims to study cognitive sci
 None
 
 ### Research
+Feel free to view my previous projects <a href="https://landy-zhuo.eu.org/Research.html">here</a>
 **Data science & machine learning researcher at Southeast University of China**
 - Developed and published a <a href="https://www.researchgate.net/publication/373054614_Credit_Default_Prediction_Based_on_Blending_Learning_Model">credit default prediction model</a>
 

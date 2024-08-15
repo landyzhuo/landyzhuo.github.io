@@ -5,7 +5,7 @@ Hi, I'm Landy- a Taiwanese high school sophomore who aims to study cognitive sci
 
 ### Education
 - Dulwich College Suzhou, 2022-2023
-- United World College Changshu China, 2023-2024
+- United World College Changshu China, 2023-
 
 ### Skills
 - **Microsoft Office Set**: PowerPoint, Word, Excel, Sway, Forms

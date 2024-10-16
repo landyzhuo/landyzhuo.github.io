@@ -12,7 +12,7 @@ Hi, I'm Landy- a Taiwanese high school junior who aims to study cognitive scienc
 - **Frontend Development**: Bootstrap, React, Vue
 - **Mobile Development**: React Native
 - **Data Science**: Numpy, Pandas, Matplotlib, Seaborn, Matlab
-- **ML/AI**: Scikit-Learn, PyTorch, NLTK
+- **ML/AI**: Scikit-Learn, PyTorch, NLTK, OpenCV
 
 ### Work Experience
 None

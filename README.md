@@ -1,18 +1,18 @@
-# Prospective Cognitive Scientist & Computational Neuroscientist
+# Prospective Cognitive Scientist & Computational Cognitive Neuroscientist
 
 ### About Me
-Hi, I'm Landy- a Taiwanese high school junior who aims to study cognitive science with a specialization in machine learning. I began coding since 6th grade and is currently into dealing with medical imaging such as MRI and PET in the scope of cognitive neuroscience. In my free time, I enjoy running, swimming, playing the piano and travelling to different places. Feel free to reach out to me via <a href="mailto:landy_zhuo@outlook.com">landy_zhuo@outlook.com</a>. 
+Hi, I'm Landy- a Taiwanese high school junior who aims to become a research scientist in the field of computational cognitive neuroscience. Feel free to reach out to me via <a href="mailto:landy_zhuo@outlook.com">landy_zhuo@outlook.com</a>. 
 
 ### Education
 - Dulwich College Suzhou, 2022-2023
 - United World College Changshu China, 2023-
 
 ### Skills
-- **Microsoft Office Set**: PowerPoint, Word, Excel, Sway, Forms
-- **Frontend Development**: Bootstrap, React, Vue
-- **Mobile Development**: React Native
 - **Data Science**: Numpy, Pandas, Matplotlib, Seaborn, Matlab
 - **ML/AI**: Scikit-Learn, PyTorch, NLTK, OpenCV
+- **Frontend Development**: Bootstrap, React, Vue
+- **Mobile Development**: React Native
+- **Microsoft Office Set**: PowerPoint, Word, Excel, Sway, Forms
 
 ### Work Experience
 None

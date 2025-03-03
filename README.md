@@ -17,8 +17,8 @@ Hi, I'm Landy- a Taiwanese high school junior who aims to become a research scie
 ### Work Experience
 None
 
-### Research
-Feel free to view my research experience <a href="https://landy-zhuo.eu.org/Research.html">here</a>
+### Essays & Research
+Feel free to view my research experience and essays <a href="https://landy-zhuo.eu.org/Research.html">here</a>
 
 ### Projects
 Feel free to view my previous projects <a href="https://landy-zhuo.eu.org/Projects.html">here</a>

@@ -1,4 +1,4 @@
-# Prospective Computational Cognitive Scientist & Educator
+# Prospective Computational Cognitive Scientist
 
 ### About Me
 Hi, I'm Landy- a Taiwanese high school junior who aims to become a research scientist in the field of computational cognitive scinece. Feel free to reach out to me via <a href="mailto:landy_zhuo@outlook.com">landy_zhuo@outlook.com</a>. 

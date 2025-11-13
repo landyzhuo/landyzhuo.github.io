@@ -1,7 +1,7 @@
 # Prospective Computational Cognitive Scientist
 
 ### About Me
-Hi, I'm Landy- a Taiwanese high school junior who aims to become a research scientist in the field of computational cognitive scinece. Feel free to reach out to me via <a href="mailto:landy_zhuo@outlook.com">landy_zhuo@outlook.com</a>. 
+Hi, I'm Landy- a Taiwanese high school junior who aims to become a researcher in the field of computational cognitive science. Feel free to reach out to me via <a href="mailto:landy_zhuo@outlook.com">landy_zhuo@outlook.com</a>. 
 
 ### Education
 - Dulwich College Suzhou, 2022-2023

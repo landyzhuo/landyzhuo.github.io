@@ -18,7 +18,7 @@ Hi, I'm Landy- a Taiwanese high school senior who aims to become a researcher in
 ### Work Experience
 None
 
-### Essays & Research
+### Publications
 Feel free to view my research experience and essays <a href="https://landy-zhuo.eu.org/Research.html">here</a>
 
 ### Projects
